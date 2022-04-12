@@ -19,7 +19,7 @@
 * My objective for this project was to train and compare the performance of various models on the basis of f1_score and time taken per prediction.
 * I have demostrated a stepwise approach and have attempted the problem using various algorithms from Naive Bayes to state of the art transformers.
 * Analysed and compared the model on the basis of f1_score and time taken per prediction.
-* I demostrated how increasing the complexity of the model way lead to better performance but will hamper the time taken per prediction.
+* Here I have demostrated how increasing the complexity of the model will lead to better performance but will hamper the time taken per prediction.
 * Build an web app using streamlit which uses model trained using a feed forward neutral network.
 * Tech Stack used : Python,numpy,pandas,sklearn,tensorflow,html,css,streamlit
 
